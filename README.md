@@ -12,4 +12,3 @@ Um sistema para facilitar pedidos de carnes e produtos de mercado em Ibaiti, com
 * Python
 * Git / GitHub
 * Linux (KeepOS)
-*
